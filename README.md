@@ -4,11 +4,10 @@
 Đây là bài thực hành số 03 trong khóa học lập trình Java Spring Boot. Bài thực hành nhằm giúp sinh viên làm quen với các khái niệm cơ bản của Spring Boot, cách xây dựng một ứng dụng web đơn giản và vận dụng các kiến thức đã học vào thực tế.
 
 ## Thông Tin Giảng Viên
-- **Mr. Nguyễn Văn Thắng**
 - **Ms. Hà Thị Kim Thoa**
 
 ## Sinh Viên Thực Hiện
-- **Dương Thái Bảo - 21037621**
+- **Nguyễn Triệu Văn - 22719741 **
 
 ## Công Nghệ Sử Dụng
 - **Ngôn ngữ lập trình:** Java
