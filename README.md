@@ -7,7 +7,7 @@
 - **Ms. Hà Thị Kim Thoa**
 
 ## Sinh Viên Thực Hiện
-- **Nguyễn Triệu Văn - 22719741 **
+- **Nguyễn Triệu Văn - 22719741**
 
 ## Công Nghệ Sử Dụng
 - **Ngôn ngữ lập trình:** Java
